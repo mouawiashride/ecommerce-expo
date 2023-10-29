@@ -1,0 +1,9 @@
+node_modules
+ 
+
+.env
+eas.json
+app.config.ts
+eas.json
+app.json
+android
